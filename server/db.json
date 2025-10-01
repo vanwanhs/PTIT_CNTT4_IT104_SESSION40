@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15",
+      "price": 25000000,
+       "status":"active",
+      "categoriesId":1
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23",
+      "price": 20000000,
+      "status":"active",
+        "categoriesId":2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Smartphone"
+    },
+    {
+      "id": 2,
+      "name": "Tablet"
+    }
+  ]
+}
